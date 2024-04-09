@@ -1,2 +1,2 @@
 # my-os
-Trying to build an os from scratch based on cfenollosa/os-tutorial
+Trying to build an os from scratch based on https://github.com/cfenollosa/os-tutorial
