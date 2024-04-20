@@ -1,3 +1,4 @@
+_start: 
 mov ah, 0x0e
 
 ; attempt 1
