@@ -1,18 +1,17 @@
 # my-os
-Trying to build an os from scratch based on https://github.com/cfenollosa/os-tutorial and https://github.com/dreamportdev/Osdev-Notes
+Trying to build an os from scratch based on https://wiki.osdev.org/Creating_an_Operating_System#Phase_0:_Introduction
 
+The reason for this project is to learn as many things as possible about how an OS is made. I don't want to build anything too complex (for now). I just wanna learn the basics so that I can better understand how the linux kernel is working and how I can possibly modify it.
 ## Implemented Functionalities
 
 ## Currently Working On
-- Choosing Target Architecture
-- Setting up cross-compiler
+- Limine Bare bones
 
 ## Todo
-- [ ] Update Compiler env variables with extra flags
-- [ ] Continue tutorial
+- [ ] Experiment with Limine Barebones
 
-## Current tutorial page
-- 9, compiler flags
+## Tutorial CheckPoints
+- [ ] 1 - Introduction, Getting Started
 
 
  
